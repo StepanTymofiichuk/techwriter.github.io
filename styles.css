@@ -54,3 +54,11 @@ a:hover {
 #portfolio-link:hover {
     color: #007bff;
 }
+#collapseOne,
+#collapseTwo,
+#collapseFour {
+    transition: 0.4s ease-out;
+}
+#collapseThree {
+    transition: 0.6s ease-out;
+}
