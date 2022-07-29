@@ -21,6 +21,9 @@ td {
 a:hover {
     color: white;
 }
+#portfolio-link:hover {
+    color: blue;
+}
 .jumbotron {
     background-color: transparent;
     border-left-style: solid;
