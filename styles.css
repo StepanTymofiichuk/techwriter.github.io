@@ -75,6 +75,15 @@ a:hover {
      font-size: 28px;
      margin: 10px;
  }
+.btn{
+    background: #FF6464;
+    border-radius: 2px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 20px;
+    margin-top: 35px;
+}
 #collapseOne,
 #collapseTwo,
 #collapseFour {
@@ -89,5 +98,6 @@ a:hover {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        flex-direction: column-reverse;
   }
 }
